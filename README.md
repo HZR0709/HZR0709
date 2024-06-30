@@ -3,9 +3,13 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ：
+
     **QQ**:903458367
+  
     **Wechat**:HZR2519
+  
     **Email**：903458367@qq.com
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
